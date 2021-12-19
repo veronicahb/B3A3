@@ -1,0 +1,8 @@
+caloi
+velox
+2
+60
+21
+false
+20
+10
